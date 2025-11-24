@@ -1,0 +1,59 @@
+Éxito (1):
+recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a "CFT categoria"
+
+Celdas precedentes referenciadas que no se exportaron (3):
+group 336 ea0d2722-055d-4a53-8cf3-181257eeb826
+group 337 ac7cab66-9a8d-44e7-af98-f894d4c668e6
+recordType 421 4894227f-e961-4a15-a05e-3e64381c3f8c
+
+Trace:
+2025-11-12 18:52:49.243 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Begin transport.
+2025-11-12 18:52:49.243 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Retrieving object data.
+2025-11-12 18:52:49.286 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Setting uuids of object references.
+2025-11-12 18:52:49.286 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: RecordTypeDefinition.dataSrcExpr
+2025-11-12 18:52:49.286 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: RecordTypeDefinition.defaultFilters
+2025-11-12 18:52:49.286 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: RecordTypeDefinition.defaultFiltersExpr
+2025-11-12 18:52:49.286 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: RecordTypeDefinition.defaultSortInfoAsQueryInfos
+2025-11-12 18:52:49.286 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: DetailViewCfg.headerExpr
+2025-11-12 18:52:49.286 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: DetailViewCfg.nameExpr
+2025-11-12 18:52:49.287 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: DetailViewCfg.uiExpr
+2025-11-12 18:52:49.287 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: DetailViewCfg.visibilityExpr
+2025-11-12 18:52:49.287 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: RecordTypeDefinition.facetsListExpr
+2025-11-12 18:52:49.287 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: FieldCfg.defaultOptionExpr
+2025-11-12 18:52:49.287 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: FieldCfg.facetLabelExpr
+2025-11-12 18:52:49.287 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: FieldCfg.relatedRecordFieldUuid
+2025-11-12 18:52:49.291 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: FieldCfg.sourceRef
+2025-11-12 18:52:49.293 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: FieldCfg.visibilityExpr
+2025-11-12 18:52:49.293 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: RecordTypeDefinition.listViewSrcExpr
+2025-11-12 18:52:49.293 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: RecordTypeDefinition.listViewTemplateExpr
+2025-11-12 18:52:49.31 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: com.appiancorp.record.entities.RecordSourceCfg@574adecd
+2025-11-12 18:52:49.319 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: RecordSourceFieldCfg.customFieldExpr
+2025-11-12 18:52:49.319 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: RecordSourceFieldCfg.recordFieldSecurityMembershipFilter
+2025-11-12 18:52:49.319 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: RecordSourceFieldCfg.customFieldExpr
+2025-11-12 18:52:49.319 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: RecordSourceFieldCfg.recordFieldSecurityMembershipFilter
+2025-11-12 18:52:49.319 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: RecordSourceFieldCfg.customFieldExpr
+2025-11-12 18:52:49.319 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: RecordSourceFieldCfg.recordFieldSecurityMembershipFilter
+2025-11-12 18:52:49.319 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: RecordSourceFieldCfg.customFieldExpr
+2025-11-12 18:52:49.319 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: RecordSourceFieldCfg.recordFieldSecurityMembershipFilter
+2025-11-12 18:52:49.319 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: RecordSourceFieldCfg.customFieldExpr
+2025-11-12 18:52:49.319 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: RecordSourceFieldCfg.recordFieldSecurityMembershipFilter
+2025-11-12 18:52:49.319 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: RecordSourceFieldCfg.customFieldExpr
+2025-11-12 18:52:49.319 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: RecordSourceFieldCfg.recordFieldSecurityMembershipFilter
+2025-11-12 18:52:49.319 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: RecordSourceFieldCfg.customFieldExpr
+2025-11-12 18:52:49.319 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: RecordSourceFieldCfg.recordFieldSecurityMembershipFilter
+2025-11-12 18:52:49.319 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: RecordSourceCfg.sourceContextExpr
+2025-11-12 18:52:49.32 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: RecordSourceCfg.sourceFilterExpr
+2025-11-12 18:52:49.32 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: RecordRelationshipCfg.relationshipData
+2025-11-12 18:52:49.32 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: RecordRelationshipCfg.sourceRecordTypeFieldUuid
+2025-11-12 18:52:49.32 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: RecordRelationshipCfg.targetJoinFieldStoredForm
+2025-11-12 18:52:49.32 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: RecordRelationshipCfg.targetRecordTypeRef
+2025-11-12 18:52:49.323 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: RecordTypeSearchCfg.placeholder
+2025-11-12 18:52:49.323 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: RecordTypeSearchCfg.searchFieldQueryInfos
+2025-11-12 18:52:49.323 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: RecordTypeDefinition.recordViewSrcExpr
+2025-11-12 18:52:49.323 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: RecordTypeDefinition.source
+2025-11-12 18:52:49.323 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: RecordTypeDefinition.titleExpr
+2025-11-12 18:52:49.323 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: Role[name=record_type_administrator,groupIds=[336]]
+2025-11-12 18:52:49.326 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Processing reference: Role[name=record_type_viewer,groupIds=[337]]
+2025-11-12 18:52:49.327 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Exporting binary resources.
+2025-11-12 18:52:49.327 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Serializing object to XML.
+2025-11-12 18:52:49.33 DEBUG recordType 422 cd3aa16b-4ed1-4b4f-bf99-8fc839fc4b2a Object transported.

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<connectedSystemHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <versionUuid>_a-0000eeca-5da2-8000-9c18-011c48011c48_4667356</versionUuid>
+    <connectedSystem>
+        <name>CFT connectedsys</name>
+        <uuid>_a-0000eeca-5da2-8000-9c18-011c48011c48_4667278</uuid>
+        <description></description>
+        <visibility>
+            <advertise>false</advertise>
+            <hierarchy>true</hierarchy>
+            <indexable>true</indexable>
+            <quota>false</quota>
+            <searchable>true</searchable>
+            <system>false</system>
+            <unlogged>false</unlogged>
+        </visibility>
+        <sharedConfigParameters>
+            <a:Dictionary xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                <configurationDescriptor xsi:type="xsd:string"/>
+                <url xsi:type="xsd:string"/>
+                <isInheritedUrlOptionSelected xsi:type="xsd:boolean">false</isInheritedUrlOptionSelected>
+                <baseUrl xsi:type="xsd:string">https://prod-bicevida.appiancloud.com/suite</baseUrl>
+                <authType xsi:type="xsd:string">OAuth 2.0</authType>
+                <authDetails xsi:type="a:Dictionary">
+                    <clientSecret xsi:type="a:EncryptedText"/>
+                    <clientId xsi:type="xsd:string"/>
+                    <tokenUrl xsi:type="xsd:string">https://prod-bicevida.appiancloud.com/suite/</tokenUrl>
+                    <authUrl xsi:type="xsd:string">https://prod-bicevida.appiancloud.com/suite</authUrl>
+                    <scope xsi:type="xsd:string">Hola</scope>
+                </authDetails>
+            </a:Dictionary>
+        </sharedConfigParameters>
+        <logoChoice></logoChoice>
+        <integrationType>system.http</integrationType>
+        <enableRtdShortcut>false</enableRtdShortcut>
+        <rtdShortcutDisplayName></rtdShortcutDisplayName>
+    </connectedSystem>
+    <roleMap public="true">
+        <role inherit="false" allowForAll="false" name="readers">
+            <users/>
+            <groups>
+                <groupUuid>ac7cab66-9a8d-44e7-af98-f894d4c668e6</groupUuid>
+            </groups>
+        </role>
+        <role inherit="false" allowForAll="false" name="authors">
+            <users/>
+            <groups/>
+        </role>
+        <role inherit="false" allowForAll="false" name="administrators">
+            <users/>
+            <groups>
+                <groupUuid>ea0d2722-055d-4a53-8cf3-181257eeb826</groupUuid>
+            </groups>
+        </role>
+        <role inherit="false" allowForAll="false" name="denyReaders">
+            <users/>
+            <groups/>
+        </role>
+        <role inherit="false" allowForAll="false" name="denyAuthors">
+            <users/>
+            <groups/>
+        </role>
+        <role inherit="false" allowForAll="false" name="denyAdministrators">
+            <users/>
+            <groups/>
+        </role>
+    </roleMap>
+    <history>
+        <historyInfo versionUuid="_a-0000eeca-5da2-8000-9c18-011c48011c48_4667356"/>
+    </history>
+</connectedSystemHaul>

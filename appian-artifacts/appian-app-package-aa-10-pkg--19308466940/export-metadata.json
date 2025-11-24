@@ -1,0 +1,18 @@
+{
+  "artifact_name": "appian-app-package-aa-10-pkg--19308466940",
+  "artifact_path": "appian-artifacts/appian-app-package-aa-10-pkg--19308466940/package-5fb28717-e54b-40bd-85d6-61b161e4129c-AA-10(pkg).zip",
+  "artifact_dir": "appian-artifacts/appian-app-package-aa-10-pkg--19308466940",
+  "manifest_path": "appian-artifacts/appian-app-package-aa-10-pkg--19308466940/export-manifest.json",
+  "raw_response_path": "appian-artifacts/appian-app-package-aa-10-pkg--19308466940/export-response.json",
+  "deployment_uuid": "105c7b5e-65ea-4975-89db-5020c14a9884",
+  "deployment_status": "COMPLETED",
+  "database_scripts": [],
+  "plugins_zip": "",
+  "customization_file": "",
+  "customization_template": "",
+  "downloaded_files": [],
+  "icf_template_status": "missing",
+  "icf_template_file": "",
+  "icf_overrides_present": false,
+  "database_scripts_present": false
+}

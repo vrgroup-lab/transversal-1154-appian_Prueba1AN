@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<processModelFolderHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <versionUuid>91797630-31b0-4e1e-a238-66d36b82487c</versionUuid>
+    <processModelFolder>
+        <name>CFT Modelos de procesos</name>
+        <uuid>08bb6db6-2a41-4b97-88b0-403d38a752d2</uuid>
+        <description>Almacena modelos de proceso para la aplicación</description>
+    </processModelFolder>
+    <roleMap>
+        <role name="ADMIN_OWNER">
+            <users/>
+            <groups>
+                <groupUuid>ea0d2722-055d-4a53-8cf3-181257eeb826</groupUuid>
+            </groups>
+        </role>
+        <role name="EDITOR">
+            <users/>
+            <groups/>
+        </role>
+        <role name="EXPLICIT_NONMEMBER">
+            <users/>
+            <groups/>
+        </role>
+        <role name="VIEWER">
+            <users/>
+            <groups>
+                <groupUuid>ac7cab66-9a8d-44e7-af98-f894d4c668e6</groupUuid>
+            </groups>
+        </role>
+        <role name="MANAGER">
+            <users/>
+            <groups/>
+        </role>
+        <role name="INITIATOR">
+            <users/>
+            <groups/>
+        </role>
+    </roleMap>
+    <history>
+        <historyInfo versionUuid="91797630-31b0-4e1e-a238-66d36b82487c"/>
+    </history>
+</processModelFolderHaul>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<groupHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <versionUuid>ac7cab66-9a8d-44e7-af98-f894d4c668e6</versionUuid>
+    <group>
+        <name>CFT Usuarios</name>
+        <securityMap>SECURITYMAP_TEAM</securityMap>
+        <uuid>ac7cab66-9a8d-44e7-af98-f894d4c668e6</uuid>
+        <groupTypeUuid>SYSTEM_GROUP_TYPE_CUSTOM</groupTypeUuid>
+        <description>Asigna a los usuarios permisos de lector para los objetos de la aplicación.</description>
+        <delegatedCreation>false</delegatedCreation>
+        <memberPolicy>MEMBERPOLICY_CLOSED</memberPolicy>
+        <viewingPolicy>VIEWINGPOLICY_LOW</viewingPolicy>
+        <attributes>
+            <attribute>
+                <name>ADGroup</name>
+                <type>TYPE_STRING</type>
+                <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="xsd:string">foobar</value>
+            </attribute>
+            <attribute>
+                <name>ADGroup-QA</name>
+                <type>TYPE_STRING</type>
+                <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="xsd:string">foobar</value>
+            </attribute>
+            <attribute>
+                <name>ADGroup-DEV</name>
+                <type>TYPE_STRING</type>
+                <value xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="xsd:string">foobar</value>
+            </attribute>
+        </attributes>
+    </group>
+    <members>
+        <users/>
+        <groups>
+            <groupUuid>ea0d2722-055d-4a53-8cf3-181257eeb826</groupUuid>
+        </groups>
+    </members>
+    <admins>
+        <users/>
+        <groups>
+            <groupUuid>ea0d2722-055d-4a53-8cf3-181257eeb826</groupUuid>
+        </groups>
+    </admins>
+    <ruleSet/>
+    <history>
+        <historyInfo versionUuid="ac7cab66-9a8d-44e7-af98-f894d4c668e6"/>
+    </history>
+</groupHaul>

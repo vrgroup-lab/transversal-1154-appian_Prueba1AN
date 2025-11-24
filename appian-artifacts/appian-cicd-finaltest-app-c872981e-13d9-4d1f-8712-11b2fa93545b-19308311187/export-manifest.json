@@ -1,0 +1,14 @@
+{
+  "artifact_path": "artifacts/app-c872981e-13d9-4d1f-8712-11b2fa93545b-CICD-FinalTest.zip",
+  "artifact_dir": "artifacts",
+  "deployment_uuid": "85a9ff1e-aeba-49c6-9170-53482bf84f96",
+  "deployment_status": "COMPLETED",
+  "downloaded_files": [
+    "artifacts/app-c872981e-13d9-4d1f-8712-11b2fa93545b-CICD-FinalTest.zip",
+    "artifacts/customization/customization-template.properties"
+  ],
+  "database_scripts": [],
+  "plugins_zip": "",
+  "customization_file": "",
+  "customization_template": "artifacts/customization/customization-template.properties"
+}
