@@ -1,0 +1,13 @@
+{
+  "artifact_path": "artifacts/app-b801e14d-0b95-4aab-9452-8f7b9f347b42-Aplicacion Normal.zip",
+  "artifact_dir": "artifacts",
+  "deployment_uuid": "1ac6932b-6236-499f-a0a1-65cec5381fa4",
+  "deployment_status": "COMPLETED",
+  "downloaded_files": [
+    "artifacts/app-b801e14d-0b95-4aab-9452-8f7b9f347b42-Aplicacion Normal.zip"
+  ],
+  "database_scripts": [],
+  "plugins_zip": "",
+  "customization_file": "",
+  "customization_template": ""
+}
